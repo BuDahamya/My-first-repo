@@ -7,5 +7,5 @@ created during the workshop
 
 ## About me 
 
-My name is **Hasira**
+My name is **Dahamya**
 I am learning Github
